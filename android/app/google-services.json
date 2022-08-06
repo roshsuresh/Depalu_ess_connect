@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34141313274",
+    "project_id": "essdepaul",
+    "storage_bucket": "essdepaul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34141313274:android:a9f62b0234f8f2c0c21143",
+        "android_client_info": {
+          "package_name": "com.example.depaul_angamaly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34141313274-nrbkvkqsftlb4mpc5auf8o6okjueqlb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc3ZGzkcA3ddmQTl5vnZK-KLghMHEQGEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34141313274-nrbkvkqsftlb4mpc5auf8o6okjueqlb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
